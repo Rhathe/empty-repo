@@ -1,0 +1,3 @@
+Try seaching for me in Github using file finder (press 't' and start typing cant-find-me-in-github-file-finder.txt).
+
+You can't because it's in a folder called 'vendor'. This feature is undocumented.
